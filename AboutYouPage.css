@@ -1,0 +1,47 @@
+span{
+    text-decoration: underline;
+}
+.bold{
+    font-weight: bold;
+}
+div{
+    margin-top: 2%;
+    border-width: 0px 0px 1px 0px;
+    border-color: black;
+    border-style: solid;
+ 
+}
+
+.joao{
+    border-width: 0px 0px 0px 0px;
+}
+.underline{
+    text-decoration: underline;
+}
+a{
+    font-weight: bold;
+}
+.wrap{
+    display: flex;
+}
+.school{
+    border-width: 0px 0px 0px 0px;
+}
+.transparent{
+    border-style: hidden;
+    background-color: lightgray;
+    text-align: center;
+
+    
+}
+
+.white{
+    background-color: white;
+}
+
+
+
+
+
+
+
